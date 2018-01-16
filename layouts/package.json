@@ -1,0 +1,17 @@
+{
+  "name": "wordpress-grunt-test",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.2.1",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "dependencies": {
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "node-sass": "^4.7.2"
+  }
+}
